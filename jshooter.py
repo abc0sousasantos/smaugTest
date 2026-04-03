@@ -7,6 +7,7 @@ try:
     import pygame.font
     from pygame.locals import *
     import player
+    #codigo pra testar
     import baddie
     import bullet
     import powerup
